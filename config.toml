@@ -1,4 +1,4 @@
-baseURL = "https://docops-hq.github.io/conf/"
+baseURL = "conf/"
 languageCode = "en-us"
 title = "Конспекты"
 theme = "tale-hugo"
@@ -10,3 +10,4 @@ theme = "tale-hugo"
   blog = ["HTML", "JSON", "RSS"]
 [Params]
 css = ["custom.css"]
+ga_id = "UA-107215405-3"
